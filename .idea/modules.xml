@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db.iml" filepath="$PROJECT_DIR$/.idea/modules/db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server.iml" filepath="$PROJECT_DIR$/.idea/modules/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sfps-app.iml" filepath="$PROJECT_DIR$/.idea/modules/sfps-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sfps-app-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sfps-app-build.iml" />
+    </modules>
+  </component>
+</project>
